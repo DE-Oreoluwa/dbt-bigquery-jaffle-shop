@@ -1,0 +1,11 @@
+
+target/
+dbt_packages/
+logs/
+dbt_internal_packages/
+analyses/
+tests/
+snapshots/
+seeds/.gitkeep
+macros/
+models/example/
